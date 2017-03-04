@@ -1,0 +1,20 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittnl/travis-ci-test.git"
+  },
+  "keywords": [],
+  "author": "Nathan Witt <wittnl@gmail.com> (http://wi.tt/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wittnl/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/wittnl/travis-ci-test#readme"
+}
